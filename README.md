@@ -6,10 +6,7 @@ Detectors."**
 
 This repository is a trimmed, reproducibility-focused extract from a larger
 multi-detector CFAR hardware research project. It contains only what is
-needed to reproduce this specific paper's derivations, figures, and tables
-— not the hardware/RTL work, the CNN-cascade work, or the other detectors'
-fixed-point implementations, which belong to companion papers not included
-here.
+needed to reproduce this specific paper's derivations, figures, and tables.
 
 ## What's here
 
@@ -31,9 +28,6 @@ Fixed-point/RTL/hardware-generation files, legacy scripts, and demo drivers
 that exist in the parent research project are deliberately not included —
 they aren't needed for anything this paper reports.
 
-**Deliberately excluded:** the project's internal roadmap/planning document
-for this paper (authorship strategy, submission-venue reasoning, an internal
-task checklist) is not paper content and is not included here.
 
 ## Reproducing the paper's results
 
@@ -85,6 +79,4 @@ The paper draft is content-complete (all six roadmap items resolved: the
 six-distribution growth-rate taxonomy, the cross-scene collision check,
 Clopper-Pearson intervals, the HRSID sample expansion, and an audited
 literature search); all reference entries are verified against their
-source records. Before submission it still needs the author's name and
-affiliation filled into the `.docx` title block, and the authorship
-conversation with the supervisor to be explicitly resolved.
+source records. 
