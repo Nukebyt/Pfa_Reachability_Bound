@@ -2,7 +2,7 @@
 
 Code and paper draft for **"The Pfa Reachability Bound: How Threshold-Offset
 Growth Rate Limits Achievable False-Alarm Calibration in Parametric SAR CFAR
-Detectors."** Target venue: IEEE TGRS (primary) / JSTARS (fallback).
+Detectors."** 
 
 This repository is a trimmed, reproducibility-focused extract from a larger
 multi-detector CFAR hardware research project. It contains only what is
